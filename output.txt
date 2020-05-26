@@ -1,0 +1,782 @@
+BENG_1: 
+Monday
+16.00-17.50    Programming_For_Engineers_Lecture    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    Orange_Hall
+
+11.00-12.50    Engineering_Mathematics_I_Labs    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    3.223
+
+Tuesday
+9.00-10.50    Engineering_Mechanics_Lecture    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    Orange_Hall
+
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Tutorial    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    3.223
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_I_Lecture    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    Orange_Hall
+
+16.00-17.50    Programming_For_Engineers_Complab    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    3.221
+
+Thursday
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Lecture    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    Orange_Hall
+
+9.00-10.50    Engineering_Materials_Tutorial    Aigerim_Mahekova,Asma_Perveen    3.223
+
+Friday
+14.00-15.50    Engineering_Materials_Lecture    Aigerim_Mahekova,Asma_Perveen    Orange_Hall
+
+11.00-12.50    Engineering_Mechanics_Tutorial    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    6.522
+
+BENG_2: 
+Monday
+16.00-17.50    Programming_For_Engineers_Lecture    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    Orange_Hall
+
+11.00-12.50    Programming_For_Engineers_Complab    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    3.221
+
+Tuesday
+9.00-10.50    Engineering_Mechanics_Lecture    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    Orange_Hall
+
+16.00-17.50    Occupal_&_Environment_Health_and_Safety_Tutorial    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    3.221
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_I_Lecture    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    Orange_Hall
+
+9.00-10.50    Engineering_Mechanics_Tutorial    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    3.223
+
+Thursday
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Lecture    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    Orange_Hall
+
+16.00-17.50    Engineering_Mathematics_I_Labs    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    3.223
+
+Friday
+14.00-15.50    Engineering_Materials_Lecture    Aigerim_Mahekova,Asma_Perveen    Orange_Hall
+
+16.00-17.50    Engineering_Materials_Tutorial    Aigerim_Mahekova,Asma_Perveen    6.522
+
+BENG_3: 
+Monday
+16.00-17.50    Programming_For_Engineers_Lecture    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    Orange_Hall
+
+14.00-15.50    Engineering_Mechanics_Tutorial    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    3.221
+
+Tuesday
+9.00-10.50    Engineering_Mechanics_Lecture    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    Orange_Hall
+
+14.00-15.50    Programming_For_Engineers_Complab    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    3.302
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_I_Lecture    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    Orange_Hall
+
+9.00-10.50    Occupal_&_Environment_Health_and_Safety_Tutorial    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    6.522
+
+Thursday
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Lecture    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    Orange_Hall
+
+14.00-15.50    Engineering_Mathematics_I_Labs    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    6.522
+
+Friday
+14.00-15.50    Engineering_Materials_Lecture    Aigerim_Mahekova,Asma_Perveen    Orange_Hall
+
+9.00-10.50    Engineering_Materials_Tutorial    Aigerim_Mahekova,Asma_Perveen    3.223
+
+BENG_4: 
+Monday
+16.00-17.50    Programming_For_Engineers_Lecture    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    Orange_Hall
+
+14.00-15.50    Engineering_Materials_Tutorial    Aigerim_Mahekova,Asma_Perveen    3.223
+
+Tuesday
+9.00-10.50    Engineering_Mechanics_Lecture    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    Orange_Hall
+
+16.00-17.50    Engineering_Mechanics_Tutorial    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    6.522
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_I_Lecture    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    Orange_Hall
+
+16.00-17.50    Engineering_Mathematics_I_Labs    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    6.522
+
+Thursday
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Lecture    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    Orange_Hall
+
+14.00-15.50    Occupal_&_Environment_Health_and_Safety_Tutorial    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    3.221
+
+Friday
+14.00-15.50    Engineering_Materials_Lecture    Aigerim_Mahekova,Asma_Perveen    Orange_Hall
+
+9.00-10.50    Programming_For_Engineers_Complab    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    6.522
+
+BENG_5: 
+Monday
+16.00-17.50    Programming_For_Engineers_Lecture    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    Orange_Hall
+
+9.00-10.50    Programming_For_Engineers_Complab    Aresh_Dadlani,Vipin_Kizheppatt,Meruyert_Temirbekova,Daniyar_Bakir    6.522
+
+Tuesday
+9.00-10.50    Engineering_Mechanics_Lecture    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    Orange_Hall
+
+11.00-12.50    Engineering_Materials_Tutorial    Aigerim_Mahekova,Asma_Perveen    6.522
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_I_Lecture    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    Orange_Hall
+
+16.00-17.50    Occupal_&_Environment_Health_and_Safety_Tutorial    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    3.223
+
+Thursday
+11.00-12.50    Occupal_&_Environment_Health_and_Safety_Lecture    Assiya_Yermukhambetova,Boris_Golman,Ming_Yang    Orange_Hall
+
+9.00-10.50    Engineering_Mathematics_I_Labs    Damira_Pernebayeva,Vasileios_Zarikas,Tair_Askar,Sung_Moon    3.221
+
+Friday
+14.00-15.50    Engineering_Materials_Lecture    Aigerim_Mahekova,Asma_Perveen    Orange_Hall
+
+9.00-10.50    Engineering_Mechanics_Tutorial    Anatoli_Vakhguelt,Talgat_Urtambayev,Mert_Guney    3.221
+
+ECE2_1: 
+Monday
+9.00-10.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.227
+
+11.00-12.50    Civil_Engineering_CAD_Lecture    Saule_Tulebekova,Deuckhang_Lee    3.415
+
+16.00-17.50    Surveying_Complab    Shazim_Memon,Zhandos_Kerimkulov    3.224
+
+Tuesday
+9.00-10.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    6.427
+
+16.00-17.50    Surveying_Lab    Shazim_Memon,Zhandos_Kerimkulov    3.415
+
+14.00-15.50    Structural_Analysis_I_Tutorial    Shazim_Memon    6.154
+
+Wednesday
+16.00-17.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    3.221
+
+14.00-15.50    Civil_Engineering_Materials_Lecture    Chang_Shon,Lyazzat_Saliyeva    6.307
+
+9.00-10.50    Civil_Engineering_CAD_Complab    Saule_Tulebekova,Deuckhang_Lee    6.112
+
+Thursday
+9.00-10.50    Surveying_Lecture    Shazim_Memon,Zhandos_Kerimkulov    3.416
+
+16.00-17.50    Civil_Engineering_CAD_Tutorial    Saule_Tulebekova,Deuckhang_Lee    3.143
+
+14.00-15.50    Surveying_Tutorial    Shazim_Memon,Zhandos_Kerimkulov    7.322
+
+Friday
+16.00-17.50    Structural_Analysis_I_Complab    Shazim_Memon    3.407
+
+14.00-15.50    Structural_Analysis_I_Lecture    Shazim_Memon    6.408
+
+9.00-10.50    Civil_Engineering_Materials_Lab    Chang_Shon,Lyazzat_Saliyeva    3.303
+
+ECE2_2: 
+Monday
+11.00-12.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    7.322
+
+14.00-15.50    Civil_Engineering_CAD_Tutorial    Saule_Tulebekova,Deuckhang_Lee    6.522
+
+9.00-10.50    Structural_Analysis_I_Lecture    Shazim_Memon    3.223
+
+Tuesday
+11.00-12.50    Structural_Analysis_I_Tutorial    Shazim_Memon    6.327
+
+9.00-10.50    Surveying_Complab    Shazim_Memon,Zhandos_Kerimkulov    3.223
+
+16.00-17.50    Civil_Engineering_CAD_Lecture    Saule_Tulebekova,Deuckhang_Lee    6.307
+
+Wednesday
+11.00-12.50    Surveying_Lecture    Shazim_Memon,Zhandos_Kerimkulov    3.220
+
+16.00-17.50    Civil_Engineering_CAD_Complab    Saule_Tulebekova,Deuckhang_Lee    3.309
+
+14.00-15.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.416
+
+Thursday
+14.00-15.50    Structural_Analysis_I_Complab    Shazim_Memon    6.408
+
+11.00-12.50    Surveying_Tutorial    Shazim_Memon,Zhandos_Kerimkulov    6.522
+
+16.00-17.50    Civil_Engineering_Materials_Lab    Chang_Shon,Lyazzat_Saliyeva    3.221
+
+Friday
+11.00-12.50    Civil_Engineering_Materials_Lecture    Chang_Shon,Lyazzat_Saliyeva    6.154
+
+16.00-17.50    Surveying_Lab    Shazim_Memon,Zhandos_Kerimkulov    3.227
+
+9.00-10.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    3.415
+
+ECHE2: 
+Monday
+9.00-10.50    Chemical_Engineering_Thermodynamics_Lecture    Dhawal_Shah,Roza_Demeisinova    3.303
+
+11.00-12.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.407
+
+Tuesday
+16.00-17.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.227
+
+9.00-10.50    Environmental_Systems_Tutorial    Moulay-Rachid_Babaa,Ayana_Muzdubayeva    3.143
+
+Wednesday
+14.00-15.50    Chemistry_I_Lecture    Zhumabay_Bakenov,Aigerim_Baimyrza    3.303
+
+16.00-17.50    Chemistry_I_Lab    Zhumabay_Bakenov,Aigerim_Baimyrza    3.217
+
+Thursday
+14.00-15.50    Environmental_Systems_Lecture    Moulay-Rachid_Babaa,Ayana_Muzdubayeva    3.309
+
+11.00-12.50    Chemistry_I_Tutorial    Zhumabay_Bakenov,Aigerim_Baimyrza    3.317
+
+Friday
+14.00-15.50    Chemical_Engineering_Thermodynamics_Tutorial    Dhawal_Shah,Roza_Demeisinova    6.408
+
+EEE2_1: 
+Monday
+14.00-15.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    6.408
+
+11.00-12.50    Microelectronic_Devices_and_Circuits_Tutorial    Alex_James,Irina_Dolzhikova    3.302
+
+9.00-10.50    Digital_Signal_and_Image_Processing_Complab    Aigerim_Sametkhanova,Muhammad_Akhtar    3.416
+
+Tuesday
+9.00-10.50    Microelectronic_Devices_and_Circuits_Lab    Alex_James,Irina_Dolzhikova    6.408
+
+14.00-15.50    Sensors_and_Actuators_Tutorial    Nazim_Mir-Nasiri,Kassen_Dautov    3.303
+
+11.00-12.50    Electronic_Engineering_Design_Principles_Lecture    Kamilya_Smagulova,Refik_Kizilirmak    3.415
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    6.427
+
+11.00-12.50    Digital_Signal_and_Image_Processing_Lecture    Aigerim_Sametkhanova,Muhammad_Akhtar    3.302
+
+16.00-17.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.224
+
+Thursday
+14.00-15.50    Signals_and_Systems_Tutorial    Behrouz_Maham,Beibit_Abdikenov    3.227
+
+9.00-10.50    Electronic_Engineering_Design_Principles_Lab    Kamilya_Smagulova,Refik_Kizilirmak    7.322
+
+11.00-12.50    Sensors_and_Actuators_Lab    Nazim_Mir-Nasiri,Kassen_Dautov    6.112
+
+Friday
+16.00-17.50    Microelectronic_Devices_and_Circuits_Lecture    Alex_James,Irina_Dolzhikova    3.416
+
+14.00-15.50    Digital_Signal_and_Image_Processing_Tutorial    Aigerim_Sametkhanova,Muhammad_Akhtar    3.221
+
+9.00-10.50    Signals_and_Systems_Lecture    Behrouz_Maham,Beibit_Abdikenov    3.143
+
+11.00-12.50    Signals_and_Systems_Lab    Behrouz_Maham,Beibit_Abdikenov    3.316
+
+EEE2_2: 
+Monday
+11.00-12.50    Electronic_Engineering_Design_Principles_Lecture    Kamilya_Smagulova,Refik_Kizilirmak    3.303
+
+16.00-17.50    Digital_Signal_and_Image_Processing_Complab    Aigerim_Sametkhanova,Muhammad_Akhtar    6.427
+
+9.00-10.50    Microelectronic_Devices_and_Circuits_Lecture    Alex_James,Irina_Dolzhikova    3.217
+
+Tuesday
+9.00-10.50    Electronic_Engineering_Design_Principles_Lab    Kamilya_Smagulova,Refik_Kizilirmak    3.316
+
+14.00-15.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    6.427
+
+16.00-17.50    Signals_and_Systems_Tutorial    Behrouz_Maham,Beibit_Abdikenov    3.132
+
+Wednesday
+16.00-17.50    Signals_and_Systems_Lab    Behrouz_Maham,Beibit_Abdikenov    3.132
+
+9.00-10.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.224
+
+14.00-15.50    Digital_Signal_and_Image_Processing_Lecture    Aigerim_Sametkhanova,Muhammad_Akhtar    3.415
+
+Thursday
+14.00-15.50    Digital_Signal_and_Image_Processing_Tutorial    Aigerim_Sametkhanova,Muhammad_Akhtar    6.112
+
+11.00-12.50    Signals_and_Systems_Lecture    Behrouz_Maham,Beibit_Abdikenov    3.143
+
+16.00-17.50    Microelectronic_Devices_and_Circuits_Tutorial    Alex_James,Irina_Dolzhikova    6.408
+
+Friday
+9.00-10.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.227
+
+11.00-12.50    Microelectronic_Devices_and_Circuits_Lab    Alex_James,Irina_Dolzhikova    6.327
+
+16.00-17.50    Sensors_and_Actuators_Tutorial    Nazim_Mir-Nasiri,Kassen_Dautov    3.415
+
+14.00-15.50    Sensors_and_Actuators_Lab    Nazim_Mir-Nasiri,Kassen_Dautov    6.422
+
+EME2_1: 
+Monday
+14.00-15.50    Mechanics_of_Materials_Tutorial    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    3.227
+
+16.00-17.50    Computer_Aided_Engineering_Complab    Yerkin_Abdildin,Aldiyar_Kakimzhan    3.132
+
+11.00-12.50    Mechanics_of_Materials_Lab    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    3.302
+
+Tuesday
+9.00-10.50    Computer_Aided_Engineering_Lecture    Yerkin_Abdildin,Aldiyar_Kakimzhan    3.143
+
+11.00-12.50    Machine_Dynamics_I_Tutorial    Evagoras_Xydas    3.221
+
+16.00-17.50    Mechanics_of_Materials_Lecture    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    3.309
+
+Wednesday
+9.00-10.50    Advanced_Control_Systems_Lecture    Md_Ali,Evagoras_Xydas    3.309
+
+14.00-15.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    6.522
+
+16.00-17.50    Sensors_and_Actuators_Lab    Nazim_Mir-Nasiri,Kassen_Dautov    7.322
+
+Thursday
+16.00-17.50    Machine_Dynamics_I_Lab    Evagoras_Xydas    6.522
+
+11.00-12.50    Advanced_Control_Systems_Lab    Md_Ali,Evagoras_Xydas    3.221
+
+9.00-10.50    Sensors_and_Actuators_Tutorial    Nazim_Mir-Nasiri,Kassen_Dautov    6.154
+
+Friday
+9.00-10.50    Machine_Dynamics_I_Lecture    Evagoras_Xydas    3.317
+
+14.00-15.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.415
+
+11.00-12.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.143
+
+EME2_2: 
+Monday
+9.00-10.50    Sensors_and_Actuators_Lab    Nazim_Mir-Nasiri,Kassen_Dautov    3.309
+
+16.00-17.50    Mechanics_of_Materials_Tutorial    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    3.143
+
+11.00-12.50    Machine_Dynamics_I_Lecture    Evagoras_Xydas    3.227
+
+Tuesday
+16.00-17.50    Computer_Aided_Engineering_Lecture    Yerkin_Abdildin,Aldiyar_Kakimzhan    6.427
+
+14.00-15.50    Engineering_Mathematics_III_Lab    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    3.302
+
+9.00-10.50    Sensors_and_Actuators_Tutorial    Nazim_Mir-Nasiri,Kassen_Dautov    3.223
+
+Wednesday
+14.00-15.50    Engineering_Mathematics_III_Lecture    Desmond_Adair,Maxim_Lu,Alima_Tazabekova    6.154
+
+9.00-10.50    Mechanics_of_Materials_Lab    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    3.415
+
+11.00-12.50    Machine_Dynamics_I_Lab    Evagoras_Xydas    3.227
+
+Thursday
+14.00-15.50    Mechanics_of_Materials_Lecture    Serik_Khairaliyev,Didier_Talamona,Tair_Askar    6.154
+
+9.00-10.50    Computer_Aided_Engineering_Complab    Yerkin_Abdildin,Aldiyar_Kakimzhan    3.143
+
+16.00-17.50    Sensors_and_Actuators_Lecture    Nazim_Mir-Nasiri,Kassen_Dautov    3.217
+
+Friday
+16.00-17.50    Advanced_Control_Systems_Lab    Md_Ali,Evagoras_Xydas    6.112
+
+14.00-15.50    Machine_Dynamics_I_Tutorial    Evagoras_Xydas    3.302
+
+11.00-12.50    Advanced_Control_Systems_Lecture    Md_Ali,Evagoras_Xydas    3.316
+
+ECE3_1: 
+Monday
+11.00-12.50    Structural_Design_Concrete_Lab    Dichuan_Zhang,Saule_Tulebekova    6.154
+
+14.00-15.50    Engineering_Geology_and_Rock_Mechanics_Lab    Minh_Nguyen,Lyazzat_Saliyeva    6.327
+
+Tuesday
+9.00-10.50    Engineering_Geology_and_Rock_Mechanics_Tutorial    Minh_Nguyen,Lyazzat_Saliyeva    3.220
+
+11.00-12.50    Capstone_Project_1_Lecture    Minh_Nguyen,Lyazzat_Saliyeva    3.316
+
+Wednesday
+9.00-10.50    Engineering_Geology_and_Rock_Mechanics_Lecture    Minh_Nguyen,Lyazzat_Saliyeva    3.302
+
+16.00-17.50    Construction_Technologies_and_Processes_Tutorial    Hau_Leung,Deuckhang_Lee,Sung_Moon    6.327
+
+Thursday
+11.00-12.50    Structural_Design_Concrete_Tutorial    Dichuan_Zhang,Saule_Tulebekova    3.132
+
+14.00-15.50    Construction_Technologies_and_Processes_Lecture    Hau_Leung,Deuckhang_Lee,Sung_Moon    3.220
+
+Friday
+11.00-12.50    Capstone_Project_1_Complab    Minh_Nguyen,Lyazzat_Saliyeva    3.227
+
+9.00-10.50    Structural_Design_Concrete_Lecture    Dichuan_Zhang,Saule_Tulebekova    3.407
+
+14.00-15.50    Structural_Design_Concrete_Complab    Dichuan_Zhang,Saule_Tulebekova    3.303
+
+ECE3_2: 
+Monday
+11.00-12.50    Construction_Technologies_and_Processes_Tutorial    Hau_Leung,Deuckhang_Lee,Sung_Moon    6.408
+
+14.00-15.50    Capstone_Project_1_Complab    Minh_Nguyen,Lyazzat_Saliyeva    3.220
+
+Tuesday
+16.00-17.50    Structural_Design_Concrete_Tutorial    Dichuan_Zhang,Saule_Tulebekova    3.217
+
+14.00-15.50    Engineering_Geology_and_Rock_Mechanics_Tutorial    Minh_Nguyen,Lyazzat_Saliyeva    3.316
+
+Wednesday
+14.00-15.50    Construction_Technologies_and_Processes_Lecture    Hau_Leung,Deuckhang_Lee,Sung_Moon    3.316
+
+16.00-17.50    Engineering_Geology_and_Rock_Mechanics_Lecture    Minh_Nguyen,Lyazzat_Saliyeva    3.143
+
+Thursday
+9.00-10.50    Structural_Design_Concrete_Complab    Dichuan_Zhang,Saule_Tulebekova    3.309
+
+16.00-17.50    Engineering_Geology_and_Rock_Mechanics_Lab    Minh_Nguyen,Lyazzat_Saliyeva    3.317
+
+Friday
+14.00-15.50    Structural_Design_Concrete_Lab    Dichuan_Zhang,Saule_Tulebekova    3.316
+
+11.00-12.50    Capstone_Project_1_Lecture    Minh_Nguyen,Lyazzat_Saliyeva    6.422
+
+16.00-17.50    Structural_Design_Concrete_Lecture    Dichuan_Zhang,Saule_Tulebekova    3.224
+
+ECHE3: 
+Monday
+9.00-10.50    Capstone_project_1_Complab    Moulay-Rachid_Babaa,Bagdagul_Dauyeshova    6.327
+
+16.00-17.50    Research_Practice_Lecture    Jorge_Ona_Ruales,Roza_Demeisinova    3.302
+
+11.00-12.50    Transport_Phenomena_II_Lecture    Sayara_Saliyeva,Sergey_Spotar    3.143
+
+Tuesday
+16.00-17.50    Capstone_project_1_Lecture    Moulay-Rachid_Babaa,Bagdagul_Dauyeshova    3.407
+
+9.00-10.50    Research_Practice_Tutorial    Jorge_Ona_Ruales,Roza_Demeisinova    3.302
+
+11.00-12.50    Transport_Phenomena_II_Lab_Complab    Sayara_Saliyeva,Sergey_Spotar    3.221
+
+Wednesday
+16.00-17.50    Separation_Processes_I_Complab    Vasileios_Inglezakis,Almira_Yagofarova    3.316
+
+9.00-10.50    Separation_Processes_I_Lab    Vasileios_Inglezakis,Almira_Yagofarova    3.132
+
+11.00-12.50    Advanced_Process_Simulation_Lecture    Torkmahalleh_Amouei,Aknur_Baibatyrova    6.522
+
+Thursday
+14.00-15.50    Separation_Processes_I_Tutorial    Vasileios_Inglezakis,Almira_Yagofarova    6.327
+
+11.00-12.50    Separation_Processes_I_Lecture    Vasileios_Inglezakis,Almira_Yagofarova    3.302
+
+9.00-10.50    Advanced_Process_Simulation_Complab    Torkmahalleh_Amouei,Aknur_Baibatyrova    6.307
+
+Friday
+16.00-17.50    Transport_Phenomena_II_Tutorial    Sayara_Saliyeva,Sergey_Spotar    6.154
+
+EEE3_1: 
+Monday
+9.00-10.50    Electromagnetics_Complab    Daniele_Tosi,Kanat_Turebekov    3.302
+
+16.00-17.50    Antennas_and_Propagation_Lecture    Carlo_Molardi,Kanat_Turebekov    3.221
+
+14.00-15.50    Electromagnetics_Lecture    Daniele_Tosi,Kanat_Turebekov    3.416
+
+Tuesday
+14.00-15.50    Power_Electronics_Lab    Alexander_Ruderman,Yerden_Kypshakpayev    3.132
+
+16.00-17.50    Digital_Communications_Lecture    Sultangali_Arzykulov,Theodoros_Tsiftsis    3.223
+
+11.00-12.50    Digital_integrated_circuits_design_Tutorial    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.227
+
+Wednesday
+11.00-12.50    Power_Electronics_Tutorial    Alexander_Ruderman,Yerden_Kypshakpayev    3.416
+
+16.00-17.50    Digital_Communications_Complab    Sultangali_Arzykulov,Theodoros_Tsiftsis    3.316
+
+14.00-15.50    Antennas_and_Propagation_Tutorial    Carlo_Molardi,Kanat_Turebekov    3.309
+
+Thursday
+9.00-10.50    Digital_integrated_circuits_design_Lecture    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    6.422
+
+16.00-17.50    Electromagnetics_Tutorial    Daniele_Tosi,Kanat_Turebekov    3.303
+
+14.00-15.50    Digital_integrated_circuits_design_Lab    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.221
+
+Friday
+14.00-15.50    Power_Electronics_Lecture    Alexander_Ruderman,Yerden_Kypshakpayev    6.327
+
+16.00-17.50    Antennas_and_Propagation_Lab    Carlo_Molardi,Kanat_Turebekov    3.132
+
+EEE3_2: 
+Monday
+16.00-17.50    Power_Electronics_Tutorial    Alexander_Ruderman,Yerden_Kypshakpayev    6.522
+
+9.00-10.50    Digital_integrated_circuits_design_Tutorial    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    6.427
+
+11.00-12.50    Power_Electronics_Lecture    Alexander_Ruderman,Yerden_Kypshakpayev    3.217
+
+Tuesday
+11.00-12.50    Antennas_and_Propagation_Tutorial    Carlo_Molardi,Kanat_Turebekov    3.143
+
+14.00-15.50    Antennas_and_Propagation_Lecture    Carlo_Molardi,Kanat_Turebekov    3.317
+
+9.00-10.50    Digital_integrated_circuits_design_Lecture    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.302
+
+Wednesday
+11.00-12.50    Antennas_and_Propagation_Lab    Carlo_Molardi,Kanat_Turebekov    3.415
+
+14.00-15.50    Electromagnetics_Complab    Daniele_Tosi,Kanat_Turebekov    3.407
+
+16.00-17.50    Electromagnetics_Lecture    Daniele_Tosi,Kanat_Turebekov    3.227
+
+Thursday
+14.00-15.50    Digital_Communications_Lecture    Sultangali_Arzykulov,Theodoros_Tsiftsis    3.223
+
+9.00-10.50    Power_Electronics_Lab    Alexander_Ruderman,Yerden_Kypshakpayev    3.302
+
+11.00-12.50    Digital_integrated_circuits_design_Lab    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.309
+
+Friday
+16.00-17.50    Digital_Communications_Complab    Sultangali_Arzykulov,Theodoros_Tsiftsis    6.307
+
+11.00-12.50    Electromagnetics_Tutorial    Daniele_Tosi,Kanat_Turebekov    3.302
+
+EME3_1: 
+Monday
+14.00-15.50    Aerodynamics_Lecture    Yong_Zhao    3.217
+
+11.00-12.50    Heat_Transfer_Lab    Maxim_Lu,Maxime_Mussard    3.317
+
+Tuesday
+9.00-10.50    Machine_Design_Lecture    Christos_Spitas    3.303
+
+14.00-15.50    Machine_Design_Lab    Christos_Spitas    3.217
+
+Wednesday
+9.00-10.50    Machine_Design_Tutorial    Christos_Spitas    3.317
+
+11.00-12.50    Heating,Ventilating,and_Air_Conditioning_Lecture    Aigerim_Mashekova,Soo_Teh    3.316
+
+Thursday
+14.00-15.50    Aerodynamics_Tutorial    Yong_Zhao    3.143
+
+11.00-12.50    Heat_Transfer_Tutorial    Maxim_Lu,Maxime_Mussard    3.415
+
+Friday
+11.00-12.50    Computer_Aided_Geometric_Design_Lecture    Konstantinos_Kostas    3.415
+
+16.00-17.50    Heat_Transfer_Lecture    Maxim_Lu,Maxime_Mussard    7.322
+
+9.00-10.50    Computer_Aided_Geometric_Design_Lab    Konstantinos_Kostas    6.112
+
+14.00-15.50    Heating,Ventilating,and_Air_Conditioning_Tutorial    Aigerim_Mashekova,Soo_Teh    3.316
+
+EME3_2: 
+Monday
+11.00-12.50    Machine_Design_Tutorial    Christos_Spitas    6.112
+
+16.00-17.50    Machine_Design_Lab    Christos_Spitas    3.415
+
+Tuesday
+11.00-12.50    Computer_Aided_Geometric_Design_Lab    Konstantinos_Kostas    3.316
+
+14.00-15.50    Machine_Design_Lecture    Christos_Spitas    3.223
+
+Wednesday
+9.00-10.50    Heat_Transfer_Lab    Maxim_Lu,Maxime_Mussard    3.407
+
+11.00-12.50    Heat_Transfer_Tutorial    Maxim_Lu,Maxime_Mussard    6.427
+
+Thursday
+11.00-12.50    Aerodynamics_Tutorial    Yong_Zhao    3.407
+
+16.00-17.50    Heating,Ventilating,and_Air_Conditioning_Lecture    Aigerim_Mashekova,Soo_Teh    6.112
+
+Friday
+16.00-17.50    Aerodynamics_Lecture    Yong_Zhao    3.317
+
+11.00-12.50    Heating,Ventilating,and_Air_Conditioning_Tutorial    Aigerim_Mashekova,Soo_Teh    3.416
+
+14.00-15.50    Computer_Aided_Geometric_Design_Lecture    Konstantinos_Kostas    3.227
+
+9.00-10.50    Heat_Transfer_Lecture    Maxim_Lu,Maxime_Mussard    7.322
+
+ECE4_1: 
+Monday
+11.00-12.50    Highway_Engineering_Lecture    Chang_Shon,Lyazzat_Saliyeva    6.307
+
+16.00-17.50    Environmental_Systems_Tutorial    Yelyzaveta_Arkhangelsky,Dina_Kaskina    6.327
+
+Tuesday
+16.00-17.50    Highway_Engineering_Lab    Chang_Shon,Lyazzat_Saliyeva    3.221
+
+11.00-12.50    Environmental_Systems_Lecture    Yelyzaveta_Arkhangelsky,Dina_Kaskina    3.407
+
+Wednesday
+9.00-10.50    Environmental_Engineering_Tutorial    Dina_Kaskina,Mert_Guney    3.316
+
+16.00-17.50    Highway_Engineering_Tutorial    Chang_Shon,Lyazzat_Saliyeva    6.307
+
+Thursday
+9.00-10.50    Environmental_Engineering_Lecture    Dina_Kaskina,Mert_Guney    3.224
+
+ECE4_2: 
+Monday
+14.00-15.50    Environmental_Systems_Tutorial    Yelyzaveta_Arkhangelsky,Dina_Kaskina    3.224
+
+16.00-17.50    Environmental_Engineering_Tutorial    Dina_Kaskina,Mert_Guney    3.221
+
+Tuesday
+14.00-15.50    Highway_Engineering_Tutorial    Chang_Shon,Lyazzat_Saliyeva    3.316
+
+9.00-10.50    Environmental_Systems_Lecture    Yelyzaveta_Arkhangelsky,Dina_Kaskina    3.132
+
+Wednesday
+14.00-15.50    Highway_Engineering_Lab    Chang_Shon,Lyazzat_Saliyeva    3.217
+
+16.00-17.50    Highway_Engineering_Lecture    Chang_Shon,Lyazzat_Saliyeva    3.302
+
+Thursday
+14.00-15.50    Environmental_Engineering_Lecture    Dina_Kaskina,Mert_Guney    3.317
+
+ECHE4: 
+Monday
+9.00-10.50    RF_and_Microwave_Circuit_Design_Lecture    Grant_Ellis,Kanat_Turebekov    3.221
+
+16.00-17.50    Capstone_Project_1_Lab    Alex_James,Kamilla_Aliakhmet    3.416
+
+Tuesday
+9.00-10.50    Capstone_Project_1_Lecture    Alex_James,Kamilla_Aliakhmet    3.407
+
+14.00-15.50    RF_and_Microwave_Circuit_Design_Tutorial    Grant_Ellis,Kanat_Turebekov    6.422
+
+Wednesday
+16.00-17.50    High_Voltage_Engineering_Lecture    Mehdi_Bagheri,Ainur_Rakhymbay    6.427
+
+14.00-15.50    Power_Transmission_and_Distribution_plants_Lecture    Svyatoslav_Nezhivenko,Mehdi_Bagheri    3.302
+
+Thursday
+16.00-17.50    RF_and_Microwave_Circuit_Design_Lab    Grant_Ellis,Kanat_Turebekov    3.415
+
+11.00-12.50    High_Voltage_Engineering_Lab    Mehdi_Bagheri,Ainur_Rakhymbay    3.303
+
+Friday
+16.00-17.50    Power_Transmission_and_Distribution_plants_Lab    Svyatoslav_Nezhivenko,Mehdi_Bagheri    3.221
+
+11.00-12.50    Power_Transmission_and_Distribution_plants_Tutorial    Svyatoslav_Nezhivenko,Mehdi_Bagheri    3.317
+
+EEE4_1: 
+Monday
+16.00-17.50    Digital_integrated_circuits_design_Lecture    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.220
+
+9.00-10.50    Digital_Communications_Lecture    Sultangali_Arzykulov,Theodoros_Tsiftsis    6.307
+
+11.00-12.50    Digital_integrated_circuits_design_Lab    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.309
+
+Tuesday
+14.00-15.50    Power_Electronics_Lab    Alexander_Ruderman,Yerden_Kypshakpayev    3.221
+
+9.00-10.50    Antennas_and_Propagation_Lab    Carlo_Molardi,Kanat_Turebekov    6.112
+
+16.00-17.50    Power_Electronics_Tutorial    Alexander_Ruderman,Yerden_Kypshakpayev    3.220
+
+Wednesday
+9.00-10.50    Electromagnetics_Tutorial    Daniele_Tosi,Kanat_Turebekov    3.416
+
+16.00-17.50    Digital_integrated_circuits_design_Tutorial    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    6.112
+
+11.00-12.50    Antennas_and_Propagation_Lecture    Carlo_Molardi,Kanat_Turebekov    3.302
+
+Thursday
+16.00-17.50    Antennas_and_Propagation_Tutorial    Carlo_Molardi,Kanat_Turebekov    6.307
+
+9.00-10.50    Digital_Communications_Complab    Sultangali_Arzykulov,Theodoros_Tsiftsis    3.221
+
+14.00-15.50    Electromagnetics_Lecture    Daniele_Tosi,Kanat_Turebekov    3.407
+
+Friday
+9.00-10.50    Power_Electronics_Lecture    Alexander_Ruderman,Yerden_Kypshakpayev    3.416
+
+14.00-15.50    Electromagnetics_Complab    Daniele_Tosi,Kanat_Turebekov    6.307
+
+EEE4_2: 
+Monday
+9.00-10.50    Antennas_and_Propagation_Lab    Carlo_Molardi,Kanat_Turebekov    3.317
+
+16.00-17.50    Power_Electronics_Lecture    Alexander_Ruderman,Yerden_Kypshakpayev    3.309
+
+14.00-15.50    Digital_integrated_circuits_design_Tutorial    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.316
+
+Tuesday
+9.00-10.50    Digital_Communications_Lecture    Sultangali_Arzykulov,Theodoros_Tsiftsis    6.154
+
+16.00-17.50    Antennas_and_Propagation_Tutorial    Carlo_Molardi,Kanat_Turebekov    3.316
+
+14.00-15.50    Antennas_and_Propagation_Lecture    Carlo_Molardi,Kanat_Turebekov    3.224
+
+Wednesday
+11.00-12.50    Electromagnetics_Lecture    Daniele_Tosi,Kanat_Turebekov    3.143
+
+16.00-17.50    Electromagnetics_Tutorial    Daniele_Tosi,Kanat_Turebekov    3.302
+
+9.00-10.50    Digital_integrated_circuits_design_Lab    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    6.327
+
+Thursday
+11.00-12.50    Power_Electronics_Lab    Alexander_Ruderman,Yerden_Kypshakpayev    6.408
+
+16.00-17.50    Electromagnetics_Complab    Daniele_Tosi,Kanat_Turebekov    3.220
+
+14.00-15.50    Power_Electronics_Tutorial    Alexander_Ruderman,Yerden_Kypshakpayev    3.302
+
+Friday
+16.00-17.50    Digital_Communications_Complab    Sultangali_Arzykulov,Theodoros_Tsiftsis    3.309
+
+14.00-15.50    Digital_integrated_circuits_design_Lecture    Alex_James,Olga_Krestinskaya,Vipin_Kizheppatt    3.407
+
+EME4_1: 
+Monday
+16.00-17.50    Vehicle_Propulsion_Systems_Tutorial    Desmond_Adair    3.317
+
+11.00-12.50    Feasibility_Analysis_of_Clean_Energy_Technologies_Complab    Luis_Rojas    6.427
+
+Tuesday
+16.00-17.50    Machine_Dynamics_II_Lab    Didier_Talamona,Tair_Askar    3.317
+
+9.00-10.50    Machine_Dynamics_II_Lecture    Didier_Talamona,Tair_Askar    3.416
+
+Wednesday
+11.00-12.50    Capstone_project_1_Complab    Christos_Spitas,Talgat_Urtambayev    3.317
+
+9.00-10.50    Machine_Dynamics_II_Tutorial    Didier_Talamona,Tair_Askar    3.143
+
+Thursday
+14.00-15.50    Vehicle_Propulsion_Systems_Lecture    Desmond_Adair    3.302
+
+9.00-10.50    Vehicle_Propulsion_Systems_Lab    Desmond_Adair    6.408
+
+Friday
+11.00-12.50    Capstone_project_1_Lecture    Christos_Spitas,Talgat_Urtambayev    3.302
+
+14.00-15.50    Feasibility_Analysis_of_Clean_Energy_Technologies_Lecture    Luis_Rojas    3.143
+
+16.00-17.50    Oscillation_of_Mechanical_Systems_Tutorial    Serik_Khairaliyev    6.408
+
+9.00-10.50    Oscillation_of_Mechanical_Systems_Lecture    Serik_Khairaliyev    3.302
+
+EME4_2: 
+Monday
+11.00-12.50    Machine_Dynamics_II_Tutorial    Didier_Talamona,Tair_Askar    3.416
+
+14.00-15.50    Vehicle_Propulsion_Systems_Lecture    Desmond_Adair    3.303
+
+Tuesday
+16.00-17.50    Vehicle_Propulsion_Systems_Lab    Desmond_Adair    6.327
+
+11.00-12.50    Capstone_project_1_Lecture    Christos_Spitas,Talgat_Urtambayev    6.427
+
+Wednesday
+11.00-12.50    Machine_Dynamics_II_Lecture    Didier_Talamona,Tair_Askar    3.309
+
+14.00-15.50    Capstone_project_1_Complab    Christos_Spitas,Talgat_Urtambayev    3.132
+
+Thursday
+16.00-17.50    Feasibility_Analysis_of_Clean_Energy_Technologies_Lecture    Luis_Rojas    3.316
+
+9.00-10.50    Oscillation_of_Mechanical_Systems_Lecture    Serik_Khairaliyev    3.317
+
+Friday
+14.00-15.50    Machine_Dynamics_II_Lab    Didier_Talamona,Tair_Askar    3.223
+
+11.00-12.50    Oscillation_of_Mechanical_Systems_Tutorial    Serik_Khairaliyev    6.112
+
+9.00-10.50    Vehicle_Propulsion_Systems_Tutorial    Desmond_Adair    3.316
+
+16.00-17.50    Feasibility_Analysis_of_Clean_Energy_Technologies_Complab    Luis_Rojas    3.316
+

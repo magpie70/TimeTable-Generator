@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1511874053 source:c:\users\Пользователь\desktop\yeah\main.cpp
+	<iostream>
+	"courses.h"
+	"faculty.h"
+	"room.h"
+	"students.h"
+	<string>
+	<fstream>
+
+1511872716 c:\users\Пользователь\desktop\yeah\courses.h
+	<string>
+	<sstream>
+	<iostream>
+
+1511873797 c:\users\Пользователь\desktop\yeah\faculty.h
+	"courses.h"
+	<iostream>
+	<string>
+
+1511873813 c:\users\Пользователь\desktop\yeah\room.h
+	<iostream>
+	<string>
+
+1511872660 c:\users\Пользователь\desktop\yeah\students.h
+	<string>
+	"courses.h"
+	<iostream>
+
+1512496538 source:c:\users\Дидар\desktop\yeah\main.cpp
+	<iostream>
+	"courses.h"
+	"faculty.h"
+	"room.h"
+	"students.h"
+	<string>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1511948506 c:\users\Дидар\desktop\yeah\courses.h
+	<string>
+	<sstream>
+	<iostream>
+
+1511948621 c:\users\Дидар\desktop\yeah\faculty.h
+	"courses.h"
+	<iostream>
+	<string>
+
+1511873813 c:\users\Дидар\desktop\yeah\room.h
+	<iostream>
+	<string>
+
+1511948550 c:\users\Дидар\desktop\yeah\students.h
+	<string>
+	"courses.h"
+	<iostream>
+
